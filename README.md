@@ -4,4 +4,3 @@ This repository serves as a proof of concept where I commit code pn regular basi
 
 This project is created for practice purposes to improve my frontend development skills using ReactJS. It includes building interactive and responsive user interfaces, working with components, state management, event handling, and implementing modern web development concepts.
 
->>>>>>> eadc34d3ccab53f484f0eb1978662d0dc70cae30
